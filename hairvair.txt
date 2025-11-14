@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>HairVair.com – Premium Hair Brand Domain For Sale</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: Arial, sans-serif; background: #faf5f7; color: #1f1f1f; }
+    .page { min-height: 100vh; display: flex; align-items: center; justify-content: center; padding: 24px; }
+    .card {
+      max-width: 950px; width: 100%; background: #fff;
+      border-radius: 24px; padding: 32px;
+      box-shadow: 0 18px 40px rgba(0,0,0,0.08);
+      display: grid; grid-template-columns: 1.1fr 0.9fr; gap: 32px;
+    }
+    @media (max-width: 800px) { .card { grid-template-columns: 1fr; padding: 24px; } }
+
+    .logo-area { margin-bottom: 14px; text-align: left; }
+    .logo-area img { height: 70px; }
+
+    .brand-name { font-size: 42px; font-weight: 700; text-transform: uppercase; margin-bottom: 12px; }
+    .brand-tagline { font-size: 17px; color: #705a64; margin-bottom: 26px; }
+
+    .price { font-size: 28px; font-weight: 700; margin: 15px 0; }
+    .btn {
+      padding: 14px 28px; border-radius: 50px; text-decoration: none; font-size: 16px;
+      display: inline-block; margin-top: 14px;
+    }
+    .btn-main {
+      background: linear-gradient(135deg,#e35591,#c23c7b); color: #fff;
+      box-shadow: 0 10px 25px rgba(194,60,123,0.35);
+    }
+
+    .visual {
+      background: radial-gradient(circle at top left,#ffe7f3,#f7ecf4,#f3e3ee);
+      padding: 28px 22px; border-radius: 20px;
+      display: flex; flex-direction: column; justify-content: flex-end;
+      text-align: center;
+    }
+    .mock-logo { font-size: 30px; font-weight: 700; margin-bottom: 6px; color: #341a25; letter-spacing: 0.15em; }
+    .mock-line { height: 110px; background: linear-gradient(120deg,#fff,#ffd8eb,#d39bb5); border-radius: 30px;
+      margin: 20px 0; box-shadow: 0 14px 35px rgba(178,116,144,0.3); }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <div class="card">
+
+      <!-- LEFT SIDE INFO -->
+      <div>
+
+        <!-- 🔥 PLACE LOGO HERE -->
+        <div class="logo-area">
+          <!-- ضع صورة اللوجو هنا -->
+          <!-- Example: <img src="logo.png" alt="HairVair Logo"> -->
+        </div>
+
+        <div class="brand-name">HairVair.com</div>
+        <div class="brand-tagline">
+          Stylish and memorable brand name for a haircare product line, cosmetics brand, salon, or e-commerce store.
+        </div>
+
+        <div class="price">Buy Now – $249</div>
+
+        <!-- ✨ BUY BUTTON TO AFTERNIC -->
+        <a class="btn btn-main" 
+           href="https://www.afternic.com/domain/hairvair.com"
+           target="_blank">
+          Buy via Afternic
+        </a>
+
+        <p style="margin-top:18px; font-size:13px; color:#8b7584;">
+          Secure payments & ownership transfer via Afternic | Escrow protection included.
+        </p>
+
+      </div>
+
+      <!-- RIGHT BRAND PREVIEW -->
+      <div class="visual">
+        <div class="mock-logo">HAIRVAIR</div>
+        <div style="letter-spacing:0.25em;font-size:11px;">VOLUME • SHINE • STYLE</div>
+        <div class="mock-line"></div>
+        <div style="font-size:12px;color:#7a5870;">
+          Brand preview mockup. Domain <strong>HairVair.com</strong> is available for acquisition.
+        </div>
+      </div>
+
+    </div>
+  </div>
+</body>
+</html>
