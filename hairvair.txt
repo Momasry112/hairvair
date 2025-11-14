@@ -53,7 +53,8 @@
         <!-- 🔥 PLACE LOGO HERE -->
         <div class="logo-area">
           <!-- ضع صورة اللوجو هنا -->
-          <!-- Example: <img src="logo.png" alt="HairVair Logo"> -->
+          <img src="logo.png" style="height:60px;margin-bottom:12px;">
+
         </div>
 
         <div class="brand-name">HairVair.com</div>
@@ -61,7 +62,7 @@
           Stylish and memorable brand name for a haircare product line, cosmetics brand, salon, or e-commerce store.
         </div>
 
-        <div class="price">Buy Now – $249</div>
+        <div class="price">Buy Now – $650</div>
 
         <!-- ✨ BUY BUTTON TO AFTERNIC -->
         <a class="btn btn-main" 
